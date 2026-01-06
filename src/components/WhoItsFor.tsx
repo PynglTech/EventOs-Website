@@ -7,7 +7,7 @@ export default function WhoItsFor() {
             <div className="max-w-[1440px] mx-auto px-8">
                 {/* Left-aligned Header */}
                 <div className="mb-12">
-                    <h2 className="text-4xl font-bold text-slate-900 mb-3">Who It's for</h2>
+                    <h2 className="text-4xl font-bold text-slate-900 mb-3">Who It&apos;s for</h2>
                     <p className="text-slate-500 text-lg">One platform to power every physical interaction.</p>
                 </div>
 
